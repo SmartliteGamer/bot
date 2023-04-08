@@ -1,0 +1,5 @@
+{
+                 "ip":"Eventtreasuresmp.aternos.me"
+                 "port":"33739"
+                 "name":"Security"
+}
